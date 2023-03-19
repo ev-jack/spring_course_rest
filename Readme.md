@@ -2,4 +2,5 @@
 
 
 Ниже 500 px
-![Uploading image_2023-03-19_22-42-26.png…]()
+
+![image_2023-03-19_22-42-26](https://user-images.githubusercontent.com/55141193/226207922-872a62fa-3c5f-4193-8904-bbca872fe2c1.png)
